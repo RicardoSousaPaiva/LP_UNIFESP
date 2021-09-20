@@ -1,0 +1,1 @@
+Olá! Consigo escrever dentro do arquivo por meio do programa em C!

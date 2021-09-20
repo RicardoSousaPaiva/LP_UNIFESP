@@ -1,0 +1,1 @@
+Parabéns! Você consegue abrir o arquivo e ler o contéudo, usando manipulação de arquivos em c.

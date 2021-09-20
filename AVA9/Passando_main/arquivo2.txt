@@ -1,0 +1,1 @@
+Parabéns! Você conseguiu criar um arquivo e fazer uma cópia da mensagem do arquivo 1, usando manipulação de arquivos em C.
